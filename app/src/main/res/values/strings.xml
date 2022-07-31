@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="square_root_symbol">\u221a</string>
+    <string name="x_cuadrada">x<sup>2</sup></string>
+    <string name="pi">\u03C0</string>
+    <string name="y">10 \u0078</string>
+
+</resources>
